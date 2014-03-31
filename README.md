@@ -15,6 +15,6 @@ version / distribution
 
 tested on
 
-* version 9.0.1
+* version 22
  * ubuntu trusty 14.04
  * debian / jessie
